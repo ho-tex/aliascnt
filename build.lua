@@ -21,6 +21,7 @@ tdslocations={
 
 
 checkconfigs = {"build"}
+checkengines= {"pdftex"}
 
 function update_tag(file,content,tagname,tagdate)
 
