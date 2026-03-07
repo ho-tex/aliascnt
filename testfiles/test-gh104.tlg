@@ -1,0 +1,157 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+\c@definition=\count...
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0
+.\hbox(0.0+0.0)x0.0
+.\vbox(0.0+0.0)x0.0, glue set - 14.99626fil
+..\kern 0.0
+..\kern 16.0
+..\kern -1.00374
+..\hbox(0.0+0.0)x0.0, glue set - 60.99626fil
+...\kern 0.0
+...\kern 62.0
+...\kern -1.00374
+...\pdfdest name{page.1} xyz
+...\penalty 10000
+...\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue(\lineskip) 0.0
+.\vbox(633.0+0.0)x407.0
+..\glue 16.0
+..\vbox(617.0+0.0)x345.0, shifted 62.0
+...\vbox(12.0+0.0)x345.0, glue set 12.0fil
+....\glue 0.0 plus 1.0fil
+....\hbox(0.0+0.0)x345.0
+.....\hbox(0.0+0.0)x345.0
+...\glue 25.0
+...\glue(\lineskip) 0.0
+...\vbox(550.0+0.0)x345.0, glue set 499.9466fil
+....\write-{}
+....\pdfdest name{Doc-Start} xyz
+....\write1{\newlabel{def}{{1}{\thepage }{}{definition.1}{}}}
+....\glue(\topskip) 3.05556
+....\hbox(6.94444+0.0)x345.0, glue set 258.68782fil
+.....\penalty 10000
+.....\hbox(0.0+0.0)x0.0
+......\hbox(0.0+0.0)x0.0, shifted -12.0
+.......\pdfdest name{definition.1} xyz
+.......\penalty 10000
+.....\kern 0.0
+.....\OT1/cmr/bx/n/10 D
+.....\OT1/cmr/bx/n/10 e
+.....\OT1/cmr/bx/n/10 ^^L (ligature fi)
+.....\OT1/cmr/bx/n/10 n
+.....\OT1/cmr/bx/n/10 i
+.....\OT1/cmr/bx/n/10 t
+.....\OT1/cmr/bx/n/10 i
+.....\OT1/cmr/bx/n/10 o
+.....\OT1/cmr/bx/n/10 n
+.....\kern 0.0
+.....\glue 3.83331 plus 1.91666 minus 1.27777
+.....\OT1/cmr/bx/n/10 1
+.....\kern 0.0
+.....\OT1/cmr/bx/n/10 .
+.....\glue 5.0 plus 1.0 minus 1.0
+.....\OT1/cmr/m/n/10 T
+.....\kern-0.83334
+.....\OT1/cmr/m/n/10 e
+.....\OT1/cmr/m/n/10 s
+.....\OT1/cmr/m/n/10 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -51
+....\glue 8.0 plus 2.0 minus 4.0
+....\glue -8.0 plus -2.0 minus -4.0
+....\penalty -51
+....\glue 8.0 plus 2.0 minus 4.0
+....\write1{\newlabel{ax}{{2}{\thepage }{}{axiom.2}{}}}
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.05556
+....\hbox(6.94444+0.0)x345.0, glue set 275.26413fil
+.....\penalty 10000
+.....\hbox(0.0+0.0)x0.0
+......\hbox(0.0+0.0)x0.0, shifted -12.0
+.......\pdfdest name{axiom.2} xyz
+.......\penalty 10000
+.....\kern 0.0
+.....\OT1/cmr/bx/n/10 A
+.....\OT1/cmr/bx/n/10 x
+.....\OT1/cmr/bx/n/10 i
+.....\OT1/cmr/bx/n/10 o
+.....\OT1/cmr/bx/n/10 m
+.....\kern 0.0
+.....\glue 3.83331 plus 1.91666 minus 1.27777
+.....\OT1/cmr/bx/n/10 2
+.....\kern 0.0
+.....\OT1/cmr/bx/n/10 .
+.....\glue 5.0 plus 1.0 minus 1.0
+.....\OT1/cmr/m/n/10 T
+.....\kern-0.83334
+.....\OT1/cmr/m/n/10 e
+.....\OT1/cmr/m/n/10 s
+.....\OT1/cmr/m/n/10 t
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\penalty -51
+....\glue 8.0 plus 2.0 minus 4.0
+....\glue(\parskip) 0.0 plus 1.0
+....\glue(\parskip) 0.0
+....\glue(\baselineskip) 5.05556
+....\hbox(6.94444+0.0)x345.0, glue set 205.76363fil
+.....\hbox(0.0+0.0)x15.0
+.....\OT1/cmr/m/n/10 G
+.....\OT1/cmr/m/n/10 o
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\OT1/cmr/m/n/10 t
+.....\OT1/cmr/m/n/10 o
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[1 0 0]} action goto name{definition.1}
+.....\OT1/cmr/m/n/10 d
+.....\OT1/cmr/m/n/10 e
+.....\OT1/cmr/m/n/10 ^^L (ligature fi)
+.....\OT1/cmr/m/n/10 n
+.....\OT1/cmr/m/n/10 i
+.....\OT1/cmr/m/n/10 t
+.....\OT1/cmr/m/n/10 i
+.....\OT1/cmr/m/n/10 o
+.....\OT1/cmr/m/n/10 n
+.....\penalty 10000
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\OT1/cmr/m/n/10 1
+.....\hbox(0.0+0.0)x0.0
+.....\pdfendlink
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\OT1/cmr/m/n/10 { (ligature --)
+.....\discretionary
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\pdfstartlink(*+*)x* attr{/Border[0 0 1]/H/I/C[1 0 0]} action goto name{axiom.2}
+.....\OT1/cmr/m/n/10 a
+.....\OT1/cmr/m/n/10 x
+.....\OT1/cmr/m/n/10 i
+.....\OT1/cmr/m/n/10 o
+.....\OT1/cmr/m/n/10 m
+.....\penalty 10000
+.....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\OT1/cmr/m/n/10 2
+.....\hbox(0.0+0.0)x0.0
+.....\pdfendlink
+.....\penalty 10000
+.....\glue(\parfillskip) 0.0 plus 1.0fil
+.....\glue(\rightskip) 0.0
+....\glue 0.0 plus 1.0fil
+....\glue 0.0
+....\glue 0.0 plus 0.0001fil
+...\glue(\baselineskip) 23.55556
+...\hbox(6.44444+0.0)x345.0
+....\hbox(6.44444+0.0)x345.0, glue set 170.0fil
+.....\glue 0.0 plus 1.0fil
+.....\OT1/cmr/m/n/10 1
+.....\glue 0.0 plus 1.0fil
+.\kern 0.0
+(test-gh104.aux)
+Package rerunfilecheck Info: File `test-gh104.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.

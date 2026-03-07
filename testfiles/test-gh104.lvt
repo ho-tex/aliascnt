@@ -1,0 +1,26 @@
+\input{regression-test}
+\documentclass{article}
+
+\usepackage{aliascnt,amsthm,hyperref}
+\START
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\def\definitionautorefname{definition}
+\def\axiomautorefname{axiom}
+
+\newaliascnt{axiom}{definition}
+\newtheorem{axiom}[axiom]{Axiom} 
+\aliascntresetthe{axiom}
+\OMIT
+\begin{document}
+\TIMO
+\showoutput
+   \begin{definition}\label{def}
+      Test
+   \end{definition}
+   \begin{axiom}\label{ax}
+      Test
+   \end{axiom}
+   Go to \autoref{def} -- \autoref{ax}
+\end{document}
