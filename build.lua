@@ -19,9 +19,15 @@ tdslocations={
 "tex/latex/aliascnt/aliascnt.sty",
 }
 
+specialformats = specialformats or {}
+specialformats["latex"] = specialformats["latex"] or
+  {
+    pdftex     = {binary="pdftex",format = "pdflatex"},
+    pdftexdev  = {binary="pdftex",format = "pdflatex-dev"},
+  }
 
 checkconfigs = {"build"}
-checkengines= {"pdftex"}
+checkengines= {"pdftex","pdftexdev"}
 
 function update_tag(file,content,tagname,tagdate)
 

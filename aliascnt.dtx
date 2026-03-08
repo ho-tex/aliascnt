@@ -1,7 +1,7 @@
 % \iffalse meta-comment
 %
 % File: aliascnt.dtx
-% Version: 2026-03-06 v1.6
+% Version: 2026-03-08 v1.7
 % Info: Alias counters
 %
 % Copyright (C)
@@ -79,7 +79,7 @@
 \input docstrip.tex
 \Msg{************************************************************************}
 \Msg{* Installation}
-\Msg{* Package: aliascnt 2026-03-06 v1.6 Alias counters (HO)}
+\Msg{* Package: aliascnt 2026-03-08 v1.7 Alias counters (HO)}
 \Msg{************************************************************************}
 
 \keepsilent
@@ -91,7 +91,7 @@
 This is a generated file.
 
 Project: aliascnt
-Version: 2026-03-06 v1.6
+Version: 2026-03-08 v1.7
 
 Copyright (C)
    2006, 2009 Heiko Oberdiek
@@ -152,7 +152,7 @@ and the derived files
 %<*driver>
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesFile{aliascnt.drv}%
-  [2026-03-06 v1.6 Alias counters (HO)]%
+  [2026-03-08 v1.7 Alias counters (HO)]%
 \documentclass{ltxdoc}
 \usepackage{holtxdoc}[2011/11/22]
 \begin{document}
@@ -166,7 +166,7 @@ and the derived files
 % \GetFileInfo{aliascnt.drv}
 %
 % \title{The \xpackage{aliascnt} package}
-% \date{2026-03-06 v1.6}
+% \date{2026-03-08 v1.7}
 % \author{Heiko Oberdiek\thanks
 % {Please report any issues at \url{https://github.com/ho-tex/aliascnt/issues}}}
 %
@@ -269,13 +269,12 @@ and the derived files
 %<*package>
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{aliascnt}%
-  [2026-03-06 v1.6 Alias counters (HO)]%
+  [2026-03-08 v1.7 Alias counters (HO)]%
 %    \end{macrocode}
 % Warning and fallback for \LaTeX{} 2026-06-01, see issue https://github.com/ho-tex/oberdiek/issues/104.
 %    \begin{macrocode}
 \IfFormatAtLeastT{2026-06-01}{%
-  \PackageWarning{aliascnt}
-  
+  \PackageWarning{aliascnt}  
   {The package is obsolete. Check the documentation.}
   \renewcommand*{\newcounteralias}[2]{%
     \@ifundefined{c@#2}{%
@@ -596,6 +595,9 @@ and the derived files
 %   \begin{Version}{2026-03-06 v1.6}
 %   \item Extracted from the oberdiek bundle and moved into its own repository. 
 %   Added fallback definition for \LaTeX{} 2026-06-01 (https://github.com/ho-tex/oberdiek/issues/104).
+%   \end{Version}
+%   \begin{Version}{2026-03-08 v1.7}
+%   \item Bug fix, corrected example in documentation.
 %   \end{Version}
 % \end{History}
 %
